@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'FormEase - Scan, Translate, Understand',
   description: 'Help parents understand government and college forms with simple translations and step-by-step explanations.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
